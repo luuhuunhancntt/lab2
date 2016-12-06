@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Shakutara - 200k/shot - pass: "Ban anh Nhan"
 gfdbgfdf
+=======
+Shakutara - 200k/shot - pass: "Ban anh Nhan"
+>>>>>>> 9dd6ee578cff7be9c6d528e733d8e1f4e20bab85
