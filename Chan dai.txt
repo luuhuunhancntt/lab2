@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 500 anh em
 pass ban anh phat
-=======
-500 anh em
->>>>>>> 9dd6ee578cff7be9c6d528e733d8e1f4e20bab85
